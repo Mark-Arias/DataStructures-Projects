@@ -1,0 +1,9 @@
+Project 6 Report
+Mark S Arias
+Upon running the test script at home, I was able to get 16/20 of the tests to pass.
+I failed the 4 that were related to building and implementing copy constructors and assignment 
+operators for this project. I spent quite a lot of time to no sucess trying to get that feature 
+implemented and working.I left the attempts at getting it to work in the project, but commented
+out the functions.
+
+the bst class though works very well.
